@@ -1,8 +1,7 @@
 # Deep Q Learning to solve Unity ML Banana Collector environment
 
 
-This project is one of the three projects in the Udacity Deep Reinforcement Learning Nanodegree. The code was expanded and adapted based on a DQN tutorial developed by the Udacity DRL Team, in which the original code was used to solve OpenAI's Lunar Lander environment.
-
+This project is one of the three projects in the Udacity Deep Reinforcement Learning Nanodegree. The code was expanded and adapted based on a DQN tutorial developed by the Udacity DRL Team.
 
 ## The Environment
 
